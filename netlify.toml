@@ -32,4 +32,4 @@
 [[headers]]
   for = "/*"
   [headers.values]
-    Content-Security-Policy = "default-src 'self'; style-src-elem 'none'; frame-src https://modernmonkvibes.substack.com;"
+    Content-Security-Policy = "default-src 'self'; frame-src https://modernmonkvibes.substack.com;"
