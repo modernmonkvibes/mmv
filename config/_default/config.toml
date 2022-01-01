@@ -117,3 +117,6 @@ rel  = "sitemap"
   [[module.mounts]]
     source = "data"
     target = "data"
+
+[params.csp]
+  framesrc = ["'https://modernmonkvibes.substack.com;'"]

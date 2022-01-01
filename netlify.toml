@@ -28,3 +28,8 @@
   port = 8888
   publish = "public"
   autoLaunch = false
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Content-Security-Policy = "default-src 'self' frame-src https://modernmonkvibes.substack.com;"
