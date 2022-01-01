@@ -8,6 +8,7 @@ enableRobotsTXT = true
 languageCode = "en-US"
 paginate = 7
 rssLimit = 10
+googleAnalytics="UA-216111223-1"
 
 # Multilingual
 defaultContentLanguage = "en"
@@ -117,6 +118,3 @@ rel  = "sitemap"
   [[module.mounts]]
     source = "data"
     target = "data"
-
-[params.csp]
-  framesrc = ["'https://modernmonkvibes.substack.com;'"]
