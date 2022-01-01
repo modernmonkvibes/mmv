@@ -1,8 +1,7 @@
 ---
-title: "Steps to Powerful Mediation for Forgiveness"
+title: "Steps to Powerful Meditation for Forgiveness"
 description: "Steps to Powerful Mediation for Forgiveness. Forgiveness has immense power to heal you, not for others but for your well being. Please give steps a try and I am say confidently it will help you to calm down and allow you to think peacefully."
-lead: "
-You will often find yourself in the feeling of guit when your relationship with friends, family or partner had gone wrong. THose are time where your
+lead: "You will often find yourself in the feeling of guit when your relationship with friends, family or partner had gone wrong. Those are time where your
 mind will try to take over your emotion by overthinking and making you feel more guily even of the smallest thing. "
 date: 2022-01-01T14:21:14+05:30
 lastmod: 2022-01-01T14:21:14+05:30
